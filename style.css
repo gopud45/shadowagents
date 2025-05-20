@@ -181,7 +181,7 @@ h3 { font-size: 1.4em; }
 .hero-section {
     background-color: #fff;
     padding: 40px 0;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 .hero-section h2 {
