@@ -699,6 +699,16 @@ body {
   font-family: var(--font-main);
 }
 
+#time {
+    width: 100%;
+    padding: 8px;
+    border:2px solid var(--blue-end);
+  border-radius: 4px;
+    cursor: pointer;
+}
+
+#t
+
 .calendar-footer {
   margin-top: 24px;
   font-size: 17px;
